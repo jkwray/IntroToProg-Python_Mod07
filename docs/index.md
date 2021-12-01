@@ -244,7 +244,7 @@ Finally, I exited out of the script and was done with the game.
 
 Finally, I ran the script in a terminal window to verify that the script executed as expected. You can see the results below.
 
-![Output in Terminal](Figure8.png "Output in Terminal")
+![Output in Terminal](Figure9.png "Output in Terminal")
 
 ## Conclusion
 
