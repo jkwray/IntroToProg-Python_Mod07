@@ -222,50 +222,29 @@ while (True):
 
 To run the script in PyCharm I right clicked and chose “Run” from the dropdown menu. You can see the initial screen below.
 
-![Start of script in PyCharm](
-
- 
+![Start of script in PyCharm](Figure2.png "Start of script in PyCharm")
 
 I then tested the exception handling by entering both a number outside of the range as well as a non-numeric character. You can see the error messages in the figures below.
 
+![Entering a number out of range](Figure3.png "Entering a number out of range")
 
-Figure 3: Entering a number out of range
-
- 
-
-Figure 4: Entering a non-numeric character
-
- 
+![Entering a non-numeric character](Figure4.png "Entering a non-numeric character")
 
 After verifying that the exception handling executed as expected, I started to play the game. I first tried one where I got the answer correct as seen below.
 
- 
-
-Figure 6: Getting the right answer
-
- 
+![Getting the right answer](Figure5.png "Getting the right answer")
 
 I wanted to make sure that inputting the wrong answer would run as expected. I choose “y” to keep going and then input the wrong answer. The script gave the correct response as seen below.
 
- 
-
-Figure 7: Wrong answer
-
- 
+![Wrong answer](Figure6.png "Wrong answer")
 
 Finally, I exited out of the script and was done with the game.
 
- 
-
-Figure 8: All done
-
- 
+![All done](Figure7.png "All done")
 
 Finally, I ran the script in a terminal window to verify that the script executed as expected. You can see the results below.
 
-Figure 9: Output in Terminal
-
- 
+![Output in Terminal](Figure8.png "Output in Terminal")
 
 ## Conclusion
 
