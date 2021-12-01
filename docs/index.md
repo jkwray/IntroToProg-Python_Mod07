@@ -240,7 +240,7 @@ I wanted to make sure that inputting the wrong answer would run as expected. I c
 
 Finally, I exited out of the script and was done with the game.
 
-![All done](Figure7.png "All done")
+![All done](Figure8.png "All done")
 
 Finally, I ran the script in a terminal window to verify that the script executed as expected. You can see the results below.
 
