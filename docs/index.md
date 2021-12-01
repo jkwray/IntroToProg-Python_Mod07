@@ -7,11 +7,11 @@ Foundations of Programming, Python
 Assignment 07
 
 
-*Exception Handling and Pickling in Python*
+# Exception Handling and Pickling in Python
 
 ** **
 
-**Introduction**
+## Introduction
 
 This assignment deviated from the format we’ve used for past assignments. This week we were asked to research both exception handling and pickling in Python. We were then tasked with writing our own script from scratch to demonstrate and showcase what we had learned about both topics.
 
@@ -31,7 +31,7 @@ For a deeper dive into pickling, I found[ What is Pickling in Python? [In-depth 
 
 ** **
 
-**Creating the Script**
+## Creating the Script
 
 I have a hard time blindly coming up with a project to showcase certain concepts so I struggled with this. I think my background in software development is why this is so hard. I am used to solving real world problems and it’s hard to just come up with something fun. I decided to create a game that loads ten quotes from the movie “Clueless” and then asks the user to guess who said it (with some hints).
 
@@ -46,7 +46,7 @@ Figure 1: Assignment07.py
 
  
 
-**Running the Script**
+## Running the Script
 
 To run the script in PyCharm I right clicked and chose “Run” from the dropdown menu. You can see the initial screen below.
 
@@ -98,6 +98,6 @@ Figure 9: Output in Terminal
 
  
 
-**Conclusion**
+## Conclusion
 
 As mentioned at the start, this was a hard assignment for me. I understand the concepts but coming up with my own program with zero direction is not something I am very good at. I feel very strong in my abilities to read and write to a file using Python but I’m hoping we get some more chances to work with exception handling as I don’t feel as confident in that area.
